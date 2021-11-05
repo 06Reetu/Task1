@@ -6,7 +6,7 @@ It is done by using html,css and java script. Also Tableau dashboard is been use
 
 
 # Screenshot of virtual Assistant.
-<img src="https://github.com/06Reetu/Webpage-Dashboard-Tabluea-/blob/main/Screenshot%20(51).png" alt="alt text" height="400" width="550"/>   
+<img src="https://github.com/06Reetu/Webpage-Dashboard-Tabluea-/blob/main/Screenshot%20(51).png" alt="alt text" height="400" width="600"/>         <img src="https://github.com/06Reetu/Webpage-Dashboard-Tabluea-/blob/main/Screenshot%20(52).png" alt="alt text" height="400" width="600"/>          <img src="https://github.com/06Reetu/Webpage-Dashboard-Tabluea-/blob/main/Screenshot%20(53).png" alt="alt text" height="400" width="600"/>   
 
 
 
